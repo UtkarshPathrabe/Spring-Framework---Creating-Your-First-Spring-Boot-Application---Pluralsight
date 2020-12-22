@@ -29,4 +29,16 @@ C. src/java
 D. src/main/java  
 Answer: `src/main/java`  
 
-Q05. 
+Q05. What do Spring Boot starters do?  
+A. Starters allow Spring Boot to be run as a standalone application, making the framework "containerless"  
+B. Starters automatically configure correctly versioned Spring frameworks and integrate them into your application  
+C. Starters are a set of detailed tutorials that demo and show you exactly how to start working with Spring Boot  
+D. Starters automatically set up environment variable configuration for your production deployments  
+Answer: `Starters automatically configure correctly versioned Spring frameworks and integrate them into your application`  
+
+Q06. Where would you override the default JDBC URL connection string to connect to a database?  
+A. pom.xml  
+B. HomeController.java  
+C. application.properties  
+D. In the "public static void main" bootstrap class  
+Answer: `application.properties`  
