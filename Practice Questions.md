@@ -70,3 +70,31 @@ B. Replace the @SpringBootApplication with @SpringBootWarApplication and extend 
 C. Exclude the embedded container, set package type to WAR and extend SpringBootServletInitializer  
 D. Add an @Configuration file and set the package type to WAR  
 Answer: `Exclude the embedded container, set package type to WAR and extend SpringBootServletInitializer`  
+
+Q11. How can you switch out the default Tomcat embedded container?  
+A. Set the embedded container type property in the application.properties file  
+B. Exclude the `tomcat` dependency and add the new embedded container starter in the pom.xml  
+C. Switch from a Maven-based project to a Gradle-based project  
+D. Add a spring profile called Jetty and enable the profile  
+Answer: ```Exclude the `tomcat` dependency and add the new embedded container starter in the pom.xml```  
+
+Q12. What are two ways you can create a Spring Boot application from scratch?  
+A. Maven initializer and the gradle initializer  
+B. Java generator and Eclipse IDE  
+C. Web Initializer and the Spring Boot CLI  
+D. Copying Spring Boot source code and using the Spring Boot tutorial helper  
+Answer: `Web Initializer and the Spring Boot CLI`  
+
+Q13. What JPA provider does Spring Data JPA use by default when added to a Spring Boot application?  
+A. Hibernate  
+B. Oracle JPA  
+C. Core Java  
+D. Open JPA  
+Answer: `Hibernate`  
+
+Q14. What are two valid external configuration strategies you can use with Spring Boot?  
+A. Servlet parameters and Docker files  
+B. Maven and cloud variables  
+C. Environment variables and JNDI  
+D. YAML files and application.properties  
+Answer: `Environment variables and JNDI`  
