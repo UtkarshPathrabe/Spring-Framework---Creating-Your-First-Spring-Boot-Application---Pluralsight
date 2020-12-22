@@ -56,3 +56,17 @@ B. Groovy
 C. JSON  
 D. YAML  
 Answer: `YAML`  
+
+Q09. What annotation is needed to create custom Java configurations in Spring Boot?  
+A. @SpringBootApplication  
+B. @AutoConfiguration  
+C. @Configuration  
+D. @Bean  
+Answer: `@Configuration`  
+
+Q10. What changes need to be made to get Spring Boot to work as a WAR file?  
+A. Set package type to WAR and add the `spring-boot-start-war` dependency  
+B. Replace the @SpringBootApplication with @SpringBootWarApplication and extend SpringBootServletInitializer  
+C. Exclude the embedded container, set package type to WAR and extend SpringBootServletInitializer  
+D. Add an @Configuration file and set the package type to WAR  
+Answer: `Exclude the embedded container, set package type to WAR and extend SpringBootServletInitializer`  
