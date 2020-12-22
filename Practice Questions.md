@@ -98,3 +98,10 @@ B. Maven and cloud variables
 C. Environment variables and JNDI  
 D. YAML files and application.properties  
 Answer: `Environment variables and JNDI`  
+
+Q15. What framework does Spring Boot use out of the box to marshal Java code to JSON?  
+A. Maven  
+B. The Spring JSON Serialization library  
+C. The core JDK JSON library with Spring MVC  
+D. The Jackson Library with Spring MVC  
+Answer: `The Jackson Library with Spring MVC`  
