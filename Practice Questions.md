@@ -42,3 +42,17 @@ B. HomeController.java
 C. application.properties  
 D. In the "public static void main" bootstrap class  
 Answer: `application.properties`  
+
+Q07. How can you enable JPA and Repositories in Spring Boot?  
+A. Add the `spring-boot-starter-web` dependency  
+B. Add the `spring-boot-starter-data-jpa` dependency  
+C. Add and configure an application.yml file  
+D. Create @Entity models and Spring Boot will recognize them  
+Answer: ```Add the `spring-boot-starter-data-jpa` dependency```  
+
+Q08. What configuration file type does Spring Boot support other than basic Java property files?  
+A. Bash  
+B. Groovy  
+C. JSON  
+D. YAML  
+Answer: `YAML`  
