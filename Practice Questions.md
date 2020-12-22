@@ -105,3 +105,10 @@ B. The Spring JSON Serialization library
 C. The core JDK JSON library with Spring MVC  
 D. The Jackson Library with Spring MVC  
 Answer: `The Jackson Library with Spring MVC`  
+
+Q16. What annotation can inject a property into Java code?  
+A. @Autowire  
+B. @Configuration  
+C. @Property  
+D. @Value  
+Answer: `@Value`  
